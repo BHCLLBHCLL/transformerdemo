@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python transformer_demo.py)",
+      "Bash(pip install *)",
+      "Bash(python *)"
+    ]
+  }
+}
